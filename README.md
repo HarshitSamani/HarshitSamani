@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<h2> <img src="" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜>!  <img src="" width="30px"></h2>
+<h2> <img src="https://github.com/HarshitSamani/HarshitSamani/blob/main/hi.gif" width="30px"> 𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜>!  <img src="https://github.com/HarshitSamani/HarshitSamani/blob/main/hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
-<img src="" alt="Welcome!" width="125"/>
+<img src="https://github.com/HarshitSamani/HarshitSamani/blob/main/git.gif" alt="Welcome!" width="125"/>
 </div>
 
 
@@ -45,7 +45,7 @@ Ask me anything <br>
 <i>Follow me around the web:</i><br>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/vineeths" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="https://www.linkedin.com/in/harshit-samani-a914b11b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 <a href="mailto:harshit.samani26@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="GMail"></a>
 
 
